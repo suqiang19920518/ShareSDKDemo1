@@ -2,11 +2,7 @@
 分享SDK，包括微信、朋友圈，微博，QQ，QQ空间等渠道分享。
 
 # Gradle
-    
-    compile ('com.xyzlf.share:sharesdk:0.0.9') {
-    	exclude group: 'com.android.support', module: 'appcompat-v7'
-    }
-
+    compile 'com.sq.share:sharesdk:1.0.0'
 
 # 效果图
 <img src="share.png"/>
