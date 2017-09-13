@@ -122,9 +122,9 @@ ShareEntity testBean = new ShareEntity("我是标题", "我是内容，描述内
 # 关于我
 有任何使用问题，可以给我发邮件：
 
-Author：张利峰
+Author：苏强
 
-E-mail：519578280@qq.com
+E-mail：1466535694@qq.com
 
 # License
 
